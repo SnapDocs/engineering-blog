@@ -21,10 +21,10 @@ page '/404.html', directory_index: false
 # Activate directory indexes for pretty urls
 activate :directory_indexes
 
-activate :title, site: 'Middleman Boilerplate'
+activate :title, site: 'Snapdocs Engineering Blog'
 
 # Active sitemap generator
-set :url_root, 'http://www.example.com'
+set :url_root, 'http://www.snapdocs.engineering'
 activate :search_engine_sitemap,
   default_change_frequency: 'weekly',
   exclude_attr: 'private'

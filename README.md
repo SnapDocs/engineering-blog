@@ -1,5 +1,5 @@
 
-# middleman-blog-boilerplate
+# Static Snapdocs Engineering Blog!
 
 Articles live as Markdown files in `source/`
 
